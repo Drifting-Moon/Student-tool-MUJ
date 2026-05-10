@@ -1,7 +1,5 @@
 # 🎓 Student Tool
 
-![Logo](icon128.png)
-
 [![Chrome Web Store](https://img.shields.io/badge/Browser-Chrome-blue?logo=google-chrome&logoColor=white)](https://chrome.google.com/webstore)
 [![Firefox Add-ons](https://img.shields.io/badge/Browser-Firefox-orange?logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
