@@ -1,7 +1,7 @@
 # 🎓 Student Tool
 
 [![Chrome Web Store](https://img.shields.io/badge/Browser-Chrome-blue?logo=google-chrome&logoColor=white)](https://chrome.google.com/webstore)
-[![Firefox Add-ons](https://img.shields.io/badge/Browser-Firefox-orange?logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/)
+[![Firefox Add-ons](https://img.shields.io/badge/Browser-Firefox-orange?logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/student-tool/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Student Tool** is a lightweight browser extension designed to enhance the academic experience for students on the Manipal University Jaipur (MUJ) SLCM portal. It automates tedious calculations and provides real-time insights into your academic performance.
