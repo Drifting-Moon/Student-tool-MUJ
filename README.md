@@ -35,10 +35,7 @@ Stop manually adding up your marks!
 5. Click **Load unpacked** and select the folder containing the extension.
 
 ### For Mozilla Firefox
-1. Download the `student-tool.xpi` file.
-2. Open Firefox and navigate to `about:debugging#/runtime/this-firefox`.
-3. Click **Load Temporary Add-on...**.
-4. Select the `manifest.json` file from the project root.
+1. https://addons.mozilla.org/en-US/firefox/addon/student-tool/
 
 ---
 
@@ -48,14 +45,7 @@ Stop manually adding up your marks!
 - **Chrome/WebExtension API**: Cross-browser compatibility.
 - **CSS3**: For subtle UI injections that feel native to the SLCM portal.
 
----
 
-## 📸 Screenshots
-
-*(Add screenshots here once available)*
-> Tip: Screenshots of the updated tables with new columns look great!
-
----
 
 ## 🤝 Contributing
 
