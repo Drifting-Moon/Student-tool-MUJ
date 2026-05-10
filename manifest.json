@@ -1,0 +1,52 @@
+{
+    "name": "Student Tool",
+    "description": "Calculates attendance metrics and internal marks.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "icons": {
+        "128": "icon128.png"
+    },
+    "permissions": [
+        "storage"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://mujslcm.jaipur.manipal.edu/Student/Academic/AttendanceSummaryForStudent*"
+            ],
+            "js": [
+                "attendance.js"
+            ],
+            "run_at": "document_idle"
+        },
+        {
+            "matches": [
+                "https://mujslcm.jaipur.manipal.edu/Student/Academic/InternalMarkForStudent*"
+            ],
+            "js": [
+                "marks_sum.js"
+            ],
+            "run_at": "document_idle"
+        },
+        {
+            "matches": [
+                "https://mujslcm.jaipur.manipal.edu/Student/Academic/GradesForStudent*"
+            ],
+            "js": [
+                "grades_parser.js"
+            ],
+            "run_at": "document_idle"
+        }
+    ],
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "studenttool@muj",
+            "strict_min_version": "109.0",
+            "data_collection_permissions": {
+                "required": [
+                    "none"
+                ]
+            }
+        }
+    }
+}
