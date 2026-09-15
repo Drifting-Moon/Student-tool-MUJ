@@ -13,8 +13,11 @@
 ### 📊 Attendance Analytics
 Never lose track of your attendance again. The tool injects real-time calculations directly into your attendance table:
 - **Classes Required**: Know exactly how many more classes you need to attend to reach that 75% mark.
-- **Safe Skips**: Calculate how many upcoming classes you can safely skip without dropping below 75%.
+- **Safe Skips**: Calculate how many upcoming classes you can safely skip without dropping below your target 75% or 90% threshold.
 
+### 📅 Timetable Highlighter
+- **Visual Tracking**: Instantly highlights missed classes (Absent) in solid red directly on your calendar timetable, allowing you to track missed lectures at a glance.
+- **Background Syncing**: Automatically and quietly syncs attendance data in the background with a beautiful progress indicator.
 ### 📝 Internal Marks Aggregator
 Stop manually adding up your marks!
 - **Auto-Sum**: Automatically calculates the total sum of your internal marks across all assessments.
@@ -59,6 +62,3 @@ Contributions are welcome! If you have ideas for new features or find any bugs, 
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
-
-<p align="center">Made with ❤️ for MUJ Students</p>
