@@ -28,11 +28,7 @@ Stop manually adding up your marks!
 ## 🚀 Installation
 
 ### For Google Chrome / Brave / Edge
-1. Download the latest version of the project as a `.zip` or clone the repository.
-2. Extract the files to a folder.
-3. Open your browser and navigate to `chrome://extensions/`.
-4. Enable **Developer Mode** (toggle in the top right).
-5. Click **Load unpacked** and select the folder containing the extension.
+1. https://chromewebstore.google.com/detail/student-tool/knijkmiieojnmmchmmjblnkjbbicicgh
 
 ### For Mozilla Firefox
 1. https://addons.mozilla.org/en-US/firefox/addon/student-tool/
