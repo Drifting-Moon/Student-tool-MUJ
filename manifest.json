@@ -1,7 +1,7 @@
 {
     "name": "Student Tool",
     "description": "Calculates attendance metrics and internal marks.",
-    "version": "1.0",
+    "version": "1.2.2",
     "manifest_version": 3,
     "icons": {
         "128": "icon128.png"
@@ -36,17 +36,22 @@
                 "grades_parser.js"
             ],
             "run_at": "document_idle"
+        },
+        {
+            "matches": [
+                "https://mujslcm.jaipur.manipal.edu/Student/Academic/ViewTimeTableForStudent*"
+            ],
+            "js": [
+                "timetable.js"
+            ],
+            "run_at": "document_idle",
+            "world": "MAIN"
         }
     ],
     "browser_specific_settings": {
         "gecko": {
             "id": "studenttool@muj",
-            "strict_min_version": "109.0",
-            "data_collection_permissions": {
-                "required": [
-                    "none"
-                ]
-            }
+            "strict_min_version": "109.0"
         }
     }
 }
