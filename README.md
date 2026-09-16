@@ -40,7 +40,7 @@ Stop manually adding up your marks!
 1. https://chromewebstore.google.com/detail/student-tool/knijkmiieojnmmchmmjblnkjbbicicgh
 
 ### For Mozilla Firefox
-1. https://addons.mozilla.org/en-US/firefox/addon/student-tool/
+1. https://addons.mozilla.org/en-US/firefox/addon/muj-fih/
 
 ---
 
